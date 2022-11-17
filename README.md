@@ -1,2 +1,2 @@
 # Learning_React_Native
-Hello World
+Starting react native from the basic.
