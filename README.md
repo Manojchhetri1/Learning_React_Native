@@ -1,2 +1,3 @@
 # Learning_React_Native
-Starting react native from the basic.
+Learning react native from the basic.
+
