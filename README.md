@@ -2,3 +2,4 @@
 
 Learning react native from the basic.
 
+Starting from scratch.
